@@ -1,2 +1,3 @@
-# CursedChip8
- A Chip8 emulator written for the Terminal (ncurses).
+# Moved
+
+Moved to [the examples folder in libchip8](https://github.com/pixelomer/libchip8).
